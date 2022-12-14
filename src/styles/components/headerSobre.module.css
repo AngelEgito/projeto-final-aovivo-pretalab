@@ -1,0 +1,39 @@
+.headerSobre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobreMim {
+    width: 38%;
+}
+
+.headerContainerSobre {
+    display: block;
+    width: 30rem;
+}
+
+.headerTitle {
+    color: #ff8566;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.headerDescription {
+    padding: 1rem;
+    font-size: 1,2rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+

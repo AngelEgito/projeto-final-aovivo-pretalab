@@ -1,0 +1,35 @@
+.container {
+    width: 100%;
+    color: #ff8566;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+.containerTitle {
+    display: block;
+    color: #ff8566;
+    font-size: 2rem;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.favoritos {
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+}
+
+.text {
+    color: white;
+    text-decoration: none;
+}
+
+.button {
+    background-color: #ff8566;
+    border: none;
+}
